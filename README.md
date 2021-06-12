@@ -10,5 +10,5 @@
 ##### ✔ responsive review card section using flexbox.
 ##### ✔ responsive order contact form section using flexbox.
 ##### ✔ responsive footer section.
-##### ✔ loading animation with fadeout effect using javascript.
 ##### ✔ scroll to top button using javascript.
+##### ✔ loading animation with fadeout effect using javascript.
