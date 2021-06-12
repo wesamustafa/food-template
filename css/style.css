@@ -401,6 +401,21 @@ header .navbar a:hover{
 .footer .credit span{
     color: var(--red);
 }
+#scroll-top{
+    position: fixed;
+    top:-120%;
+    right:2rem;
+    padding:.5rem 1.5rem;
+    font-size: 4rem;
+    background: var(--red);
+    color:#fff;
+    border-radius: .5rem;
+    transition: 1s linear;
+    z-index: 1000;
+}
+#scroll-top.active{
+    top:calc(100% - 7rem);
+}
 
 /* media queries */
 @media(max-width:991px){
@@ -445,6 +460,5 @@ header .navbar a:hover{
     }
     .order .row form .inputBox input{
         width: 100%;
-    }
-    
+    }  
 }
