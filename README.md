@@ -1,14 +1,14 @@
 # Akletna
-## the main feature of this website are:
+### the main feature of this website are:
 
-##### ✔ responsive header / navbar with toggle menu bar effect.
-##### ✔ responsive home section using flexbox.
-##### ✔ responsive specialty section with hover effects using flexbox.
-##### ✔ responsive popular product card section using flexbox.
-##### ✔ responsive image gallery with hover effect section using flexbox.
-##### ✔ responsive steps section using flexbox.
-##### ✔ responsive review card section using flexbox.
-##### ✔ responsive order contact form section using flexbox.
-##### ✔ responsive footer section.
-##### ✔ scroll to top button using javascript.
-##### ✔ loading animation with fadeout effect using javascript.
+###### ✔ responsive header / navbar with toggle menu bar effect.
+###### ✔ responsive home section using flexbox.
+###### ✔ responsive specialty section with hover effects using flexbox.
+###### ✔ responsive popular product card section using flexbox.
+###### ✔ responsive image gallery with hover effect section using flexbox.
+###### ✔ responsive steps section using flexbox.
+###### ✔ responsive review card section using flexbox.
+###### ✔ responsive order contact form section using flexbox.
+###### ✔ responsive footer section.
+###### ✔ scroll to top button using javascript.
+###### ✔ loading animation with fadeout effect using javascript.
